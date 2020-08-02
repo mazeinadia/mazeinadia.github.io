@@ -1,0 +1,29 @@
+body {
+    background-color: #222;
+    margin: 0;
+    padding: 32px 48px;
+}
+
+h1 {
+    color: #fff;
+    margin: 0 0 32px;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+a {
+    display: block;
+    font-size: 24px;
+    line-height: 36px;
+    text-decoration: none;
+    margin-bottom: 14px;
+    background-color: #333;
+    color: #bbb;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: color .2s ease-in-out;
+}
+
+a:hover {
+    color: #fff;
+}
